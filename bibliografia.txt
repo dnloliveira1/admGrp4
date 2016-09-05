@@ -1,8 +1,0 @@
-arquivo 1
-http://bibliotecadigital.fgv.br/ojs/index.php/rap/article/view/7775/6374
-
-arquivo 2
-http://www.abepro.org.br/biblioteca/enegep2008_tn_sto_069_490_11031.pdf
-
-arquivo 3
-https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&cad=rja&uact=8&ved=0ahUKEwipuaij5KXOAhVEhJAKHQVbCAYQFghMMAU&url=http%3A%2F%2F200.232.30.99%2Fdownload.asp%3Ffile%3D3403083.pdf&usg=AFQjCNFZE77dVWD-xosgkTtoOAWEbKLAeA&sig2=F_sn43Dr7ywEFCxUEDIzlg&bvm=bv.128617741,d.Y2I
